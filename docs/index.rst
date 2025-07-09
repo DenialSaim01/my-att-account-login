@@ -4,11 +4,14 @@ How Do I Log In to My AT&T Account Easily?
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+.. image:: login.jpg
+   :alt: AT&T
+   :width: 400px
+   :align: center
+   :target: https://aclogportal.com/at-t-login
 
-.. image::login.jpg
-   
 
-   Managing your wireless plans, internet, or TV services is much simpler when you know how to navigate your provider’s online portal. If you’re wondering how to access my AT&T account login, you’re not alone. Whether you want to pay bills, change your plan, or check data usage, logging into your AT&T account is the first and most essential step.
+Managing your wireless plans, internet, or TV services is much simpler when you know how to navigate your provider’s online portal. If you’re wondering how to access my AT&T account login, you’re not alone. Whether you want to pay bills, change your plan, or check data usage, logging into your AT&T account is the first and most essential step.
 
 This guide will walk you through everything you need to know about accessing and managing your AT&T account online—without confusion or hassle.
 
