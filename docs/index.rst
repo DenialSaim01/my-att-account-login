@@ -4,7 +4,7 @@ How Do I Log In to My AT&T Account Easily?
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
- Learn how to log in to your AT&T account smoothly and manage your services effortlessly. Quick, secure steps to access "my AT&T account login.
+Learn how to log in to your AT&T account smoothly and manage your services effortlessly. Quick, secure steps to access "my AT&T account login.
  
 .. image:: login.jpg
    :alt: AT&T
